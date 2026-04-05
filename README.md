@@ -11,7 +11,7 @@ A GPA planning tool designed for UT Austin students to model semester outcomes a
 ## Purpose/Problem
 Students often struggle to understand how their semester performance impacts their cumulative GPA. This tool helps users plan ahead by simulating different grade scenarios.
 
-## Tech Tools Used
+## Languages Used
 - HTML
 - CSS
 - JavaScript
