@@ -17,7 +17,7 @@ Students often struggle to understand how their semester performance impacts the
 - JavaScript
 
 ## Live Demo
-https://yourusername.github.io/longhorn-gpath/](https://keondre07reese.github.io/Longhorn-GPAth/
+https://keondre07reese.github.io/Longhorn-GPAth/
 
 ## Future Ideas & Potential Improvements
 - Minimum grade per course feature
